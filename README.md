@@ -1,6 +1,6 @@
 # PySpark - Big Data Final Project
 
-Hello! I am Annie and this is a final project for demonstrating the skills we have learnt in Big Data course. 
+Hello! I am Annie and this is my final project for demonstrating the skills we have learnt in Big Data course. 
 
 ## Text Data Input
 
