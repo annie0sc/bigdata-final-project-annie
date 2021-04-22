@@ -101,6 +101,8 @@ plt.figure(figsize=(20,4))
 sns.barplot(xlabel, ylabel, data=df, palette="YlOrBr").set_title(title)
 ```
 
+## Link to the [Databricks Notebook](https://github.com/annie0sc/bigdata-final-project-pyspark/blob/main/PySpark-Annie-finalProject.ipynb)
+
 ## Chart for 10 values
 ![](https://github.com/annie0sc/bigdata-final-project-pyspark/blob/main/Screenshot%20(162).png?raw=True)
 
