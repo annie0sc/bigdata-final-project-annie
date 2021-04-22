@@ -1,6 +1,10 @@
 # PySpark - Big Data Final Project
 
-Hello! I am Annie and this is my final project for demonstrating the skills we have learnt in Big Data course. 
+Hello! I am Annie and this is my final project for demonstrating the skills we have learnt in Big Data course.
+
+## Author
+
+<a href="https://github.com/annie0sc"><img src="https://avatars.githubusercontent.com/u/28427324?s=460&u=31b810c008419d5bfb81c152d51ec90cb96dc28b&v=4" width="100px;" alt=""/><br /><sub><b>Annie Chandolu</b></sub></a><br />
 
 ## Text Data Input
 
@@ -98,7 +102,7 @@ sns.barplot(xlabel, ylabel, data=df, palette="YlOrBr").set_title(title)
 ```
 
 ## Chart for 10 values
-![]()
+![](https://github.com/annie0sc/bigdata-final-project-pyspark/blob/main/Screenshot%20(162).png?raw=True)
 
 # References
 
